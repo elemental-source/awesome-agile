@@ -3,10 +3,10 @@ A hub of blog posts, papers and discussion around Agile theory and practices for
 
 # Contents
   * [Theory](#theory)
-  ** [The Agile Movement](#the-agile-movement)
-  ** [Scrum](#scrum)
-  ** [Kanban](#kanban)
-  ** [Lean](#lean)
+    * [The Agile Movement](#the-agile-movement)
+    * [Scrum](#scrum)
+    * [Kanban](#kanban)
+    * [Lean](#lean)
 
 ## Theory
 
