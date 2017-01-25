@@ -14,7 +14,7 @@ A hub of blog posts, papers and discussion around Agile theory and practices for
 
 ### Scrum
 
-* [Scrum Guide] (http://www.scrumguides.org/scrum-guide.html)
+* [Scrum Guide] (http://www.scrumguides.org/scrum-guide.html) - Describes the Scrum framework as proposed by  Ken Schwaber and Jeff Sutherland.
 
 ### Kanban
 
