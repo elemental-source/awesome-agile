@@ -26,6 +26,7 @@ A hub of blog posts, papers and discussion around Agile theory and practices for
 * [PSM Certification Guide] (http://psm.certification.guide/)
 * [Scrum.org PSM I Study Tips] (http://www.scrumcrazy.com/Scrum.org+PSM+I+Study+Tips)
 * [Scrum Insights for Practitioners: The Scrum Guide Companion] (https://www.amazon.com/Scrum-Insights-Practitioners-Guide-Companion-ebook/dp/B01MYSIYPT)
+* [The Scrum Master as a Change Agent] (http://www.barryovereem.com/the-scrum-master-as-a-change-agent/)
 
 ## Kanban
 
